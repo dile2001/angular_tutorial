@@ -8,15 +8,15 @@ import { HousingLocationComponent } from './housing-location/housing-location.co
 
 @NgModule({
   declarations: [
-    AppComponent,
-    HomeComponent,
-    HousingLocationComponent
+    //AppComponent,
+    //HomeComponent,
+    //HousingLocationComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  //bootstrap: [AppComponent]
 })
 export class AppModule { }
